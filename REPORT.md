@@ -1,4 +1,4 @@
-Họ tên: Cao Đức Hiếu (Mã học viên: 2A202602701)
+Họ tên: Cao Đức HIếu (Mã học viên: 2A202602701)
 `dataset_version`: d10-21e4070301
 
 ## Bảng tổng hợp (số của bạn, lấy từ `report/evidence/*.json`)
